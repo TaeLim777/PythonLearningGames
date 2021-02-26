@@ -1,3 +1,3 @@
 #testing 123
-
-print ("hello world")
+if __name__ == '__main__':
+    print ("hello world")

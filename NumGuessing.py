@@ -1,7 +1,8 @@
 """ NUMBER GUESSING GAME """
 
 import random
-from namequestion import *
+from namequestion import askname
+from namequestion import alwaysloses
 
 #ask for name
 name = askname()
